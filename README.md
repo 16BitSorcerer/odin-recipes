@@ -9,15 +9,12 @@ Odin Recipes is a project developed as part of [The Odin Project](https://www.th
 ## Recipes
 
 ### 1. Elote Euphoria 🌽
-![Elote Euphoria](path/to/elote_image.jpg)
 Experience the seductive flavors of Mexican street cuisine with Elote Euphoria. This recipe combines tender grilled corn with creamy mayo, Mexican crema, cotija cheese, chili powder, lime, and fresh cilantro for a symphony of pleasure that ignites the senses.
 
 ### 2. Boiga Kang Boiga Whoppa 🍔
-![Boiga Kang Boiga Whoppa](path/to/boiga_image.jpg)
 Indulge in the mega-cute flagship burger, Boiga Kang Boiga Whoppa! Inspired by Burger King's Whopper, this burger features a flame-grilled beef patty, sesame seed bun, lettuce, tomato, pickles, onions, mayo, ketchup, mustard, cheddar cheese, and signature Whopper sauce for an explosion of flavor.
 
-### 3. Avocado Toast
-![Avocado Toast](path/to/soup_image.jpg)
+### 3. Avocado Toast 🥑
 Elevate your breakfast game with Avocado Toast! This trendy recipe combines perfectly ripe avocados, crusty artisan bread, a sprinkle of Himalayan pink salt, and a touch of black pepper.
 
 
