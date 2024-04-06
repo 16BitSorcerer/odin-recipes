@@ -1,10 +1,10 @@
-# Culinary Creations 🍴
+# Odin Recipes 🍴
 
-Welcome to Culinary Creations! This project is a delightful collection of three mouthwatering recipes inspired by different cuisines from around the world. From the sultry delights of Elote Euphoria to the mega-cute Boiga Kang Boiga Whoppa and the trendy Avocado Toast, this repository celebrates the art of cooking and culinary exploration.
+Welcome to Odin Recipes! This project is a delightful collection of three mouthwatering recipes inspired by different cuisines from around the world. From the sultry delights of Elote Euphoria to the mega-cute Boiga Kang Boiga Whoppa and the trendy Avocado Toast, this repository celebrates the art of cooking and culinary exploration.
 
 ## About
 
-Culinary Creations is a project developed as part of [The Odin Project](https://www.theodinproject.com/), a free and open-source online platform for learning web development. Through this project, we combine our passion for coding with the joy of cooking, creating interactive and visually appealing web pages that showcase delicious recipes.
+Odin Recipes is a project developed as part of [The Odin Project](https://www.theodinproject.com/), a free and open-source online platform for learning web development. Through this project, we combine our passion for coding with the joy of cooking, creating appealing web pages that showcase delicious recipes. In this project, we'll demonstrate our use of pure HTML to create a digital cookbook.
 
 ## Recipes
 
@@ -18,7 +18,7 @@ Indulge in the mega-cute flagship burger, Boiga Kang Boiga Whoppa! Inspired by B
 
 ### 3. Avocado Toast
 ![Avocado Toast](path/to/soup_image.jpg)
-Elevate your breakfast game with Avocado Toast! This trendy recipe combines perfectly ripe avocados, crusty artisan bread, a sprinkle of salt and pepper, and optional toppings like poached eggs, cherry tomatoes, or microgreens for a simple yet delicious morning treat.
+Elevate your breakfast game with Avocado Toast! This trendy recipe combines perfectly ripe avocados, crusty artisan bread, a sprinkle of Himalayan pink salt, and a touch of black pepper.
 
 
 ## Usage
@@ -30,7 +30,7 @@ To explore these delectable recipes:
 
 ## Credits
 
-This project was created by [Your Name] as a fun and creative exploration of web development and culinary arts, inspired by The Odin Project.
+This project was created by 16bitSorcerer as a fun and creative exploration of web development and culinary arts, required by The Odin Project HTML foundations course.
 
 ## License
 
