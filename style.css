@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+.landing-page {
+  height: 90vh; 
+  width: 90vw;
+  margin: 5vh; 
+  display: grid;
+  place-items: start center;
+  background-color: hwb(0 29% 71%);
+}
+
+.heading {
+  font-size: 36px; 
+  color: white; 
+  text-align: center;
+}
+
+
+.recipe {
+  background-size: cover;
+  transition: transform 0.3s ease;
+  width: 100px;
+  height: 100px;
+  margin: 0px 20px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+}
+
+.recipe:hover {
+  transform: scale(1.25);
+  cursor: pointer;
+  border: 2px solid yellow; 
+  box-shadow: 0 0 10px yellow; 
+}
+
+.burger {
+  background-image: url("https://img.freepik.com/premium-vector/burger-pixel-style-closeup-promotion-design-abstract-background-logo-design-fast-food_194782-948.jpg");
+}
+.toast {
+  background-image: url("https://img.freepik.com/premium-vector/toast-bread-icon-pixel-art-illustration-8-bit_749131-7.jpg");
+}
+.elote {
+  background-image: url("https://i.pinimg.com/564x/99/af/57/99af578af3cc7d3589ef6c74b1ea6879.jpg");
+}
